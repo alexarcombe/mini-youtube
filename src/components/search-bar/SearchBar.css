@@ -1,0 +1,8 @@
+.search-field {
+  display: flex;
+  justify-content: center;
+}
+
+.search-input {
+  max-width: 600px;
+}

@@ -1,0 +1,5 @@
+.video-item {
+  cursor: pointer;
+  display: flex !important;
+  align-items: center;
+}
